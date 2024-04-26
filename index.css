@@ -32,7 +32,12 @@ a.active{
     border-bottom: 1px solid black;
 }
 
-img{
-    width: 40%;
+.card img{
     height: 500px;
+    width: 100%;
+}
+.card h2 {
+    width: 40%;
+    display: inline-block;
+
 }
