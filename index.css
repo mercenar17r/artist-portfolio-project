@@ -31,3 +31,12 @@ h1{
 a.active{
     border-bottom: 1px solid black;
 }
+
+.card img{
+    height: 500px;
+    width: 100%;
+}
+
+.card img {
+    display: block;
+}
