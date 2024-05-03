@@ -38,5 +38,10 @@ a.active{
 }
 
 .card img {
-    display: block;
+   display: inline-block;
+   width: 50%;
+
+}
+.zoom{
+    transform: scale(1.5)
 }
