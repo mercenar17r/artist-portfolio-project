@@ -32,17 +32,3 @@ a.active{
     border-bottom: 1px solid black;
 }
 
-.card img{
-    height: 500px;
-    width: 100%;
-}
-
-.card img {
-   display: inline-block;
-   width: 50%;
-   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
-
-}
-.zoom{
-    transform: scale(1.5)
-}
